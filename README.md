@@ -4,7 +4,7 @@
 
 ## 一、悬浮球
 
-平时就是右下角一枚圆形 logo（`logo.png` 做的，圆外全透明，没有方角白雾）：
+平时就是右下角一枚圆形 logo
 
 ![ball](shot-ball-exe.png)
 
